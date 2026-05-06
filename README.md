@@ -3,7 +3,7 @@
 Independent researcher interested in machine learning theory, safe reinforcement
 learning, optimizer dynamics, survival analysis, and certificate-based methods.
 
-Contact: moyashiusdt@gmail.com
+Contact: tomousdc@gmail.com
 
 Current research interests include:
 
